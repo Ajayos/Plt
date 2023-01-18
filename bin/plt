@@ -1,1 +1,3 @@
 console.log("iam here");
+console.log(l + b); 
+mmm();
